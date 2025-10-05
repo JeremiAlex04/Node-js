@@ -1,4 +1,5 @@
-<img width="1200" height="735" alt="image" src="https://github.com/user-attachments/assets/8b5b9626-1e2d-4390-acf2-85f2dcc1aa14" />
+<img width="200" height="284" alt="image" src="https://github.com/user-attachments/assets/debf44c3-d27d-4195-9e77-74581caee4fd" />
+
 # Ejercicios de callback en Node.js
 - CallBack (12 Ejercicios Practicos)
 - Promise (12 Ejercicios Practicos)
